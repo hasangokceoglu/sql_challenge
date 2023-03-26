@@ -6,6 +6,7 @@ All that remains of the employee database from that period are six CSV files.
 
 ## Data Modeling
 Entity Relationship Diagram of the tables
+
 <img width="449" alt="image" src="https://user-images.githubusercontent.com/118228120/227779222-6bbcfc7d-72aa-470f-b06c-bf6d254a2cbe.png">
 
 ## Data Engineering
